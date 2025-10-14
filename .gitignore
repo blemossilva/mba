@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Ficheiros temporários
+*.tmp
+*.bak
+~*
+
+# Ficheiros pessoais
+*.personal.md
+notas-pessoais/
