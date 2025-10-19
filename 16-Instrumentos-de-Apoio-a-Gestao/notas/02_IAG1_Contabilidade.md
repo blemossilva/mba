@@ -1,5 +1,19 @@
-# Notas de aulas - Contabilidade - IAG1
+# 📘 MBA Executivo – 10ª Edição (ISAG)
 
+**Disciplina:** Instrumentos de Apoio à Gestão - MBA52
+**Docente Responsável:** Nuno Reis
+**Tópico:** Contabilidade
+
+---
+
+### 🧭 Fonte e Objetivo
+Baseado nas **notas de aula de Bruno Lemos Silva**, nos **materiais dos professores do ISAG**, e em **pesquisas complementares de fontes oficiais e fidedignas**.  
+O objetivo é **consolidar o conhecimento** e **aplicar os conceitos na prática profissional**, promovendo o crescimento e rigor académico.
+
+---
+
+
+# Contabilidade 
 > **Objetivo**: consolidar as tuas notas com terminologia correta, estrutura lógica e pontos de exame frequentes, alinhados com o **SNC – Sistema de Normalização Contabilística**, com referências oficiais/credíveis.
 
 ---
@@ -938,3 +952,20 @@ Regida pela **NCRF 21 – Provisões, Passivos Contingentes e Ativos Contingente
   🔗 <https://www.cnc.min-financas.pt/pdf/NCRF_21.pdf>
 - **Portal CNC – Sistema de Normalização Contabilística (SNC)**
   🔗 <https://www.cnc.min-financas.pt/>
+
+
+---
+
+### ✍️ Autor e Creditação
+Elaborado por **Bruno Lemos Silva**, participante da **10ª Edição do MBA Executivo do ISAG – Instituto Superior de Administração e Gestão**.
+
+### 🕓 Atualização
+Última revisão: **outubro de 2025**
+
+### 🧩 Observações
+Este guia destina-se exclusivamente a fins de **estudo e desenvolvimento profissional**.  
+As informações aqui contidas foram compiladas de forma independente, respeitando os direitos autorais e citando fontes oficiais sempre que aplicável.
+
+> 📑 **Declaração de integridade académica:**  
+> Este material não substitui as aulas, notas originais ou manuais fornecidos pelo ISAG.  
+> O seu conteúdo visa apenas reforçar o entendimento e promover a aplicação prática dos conceitos abordados durante o curso.
