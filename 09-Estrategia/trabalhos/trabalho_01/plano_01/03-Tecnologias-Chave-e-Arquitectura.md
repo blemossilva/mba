@@ -27,3 +27,14 @@ Seguranca e privacidade por desenho
 - Cifras, isolamento e observabilidade ponta a ponta
 - Controles de acesso por atributo e contratos de uso de dados
 
+Principios de arquitectura
+- Cloud agnostico com camadas portaveis e infra como codigo
+- Malha de dados com contratos, linhagem e catálogos por dominio
+- Edge first para casos de latencia e resiliencia
+- Testes automatizados e canary para modelos e agentes
+- Observabilidade com SLOs por fluxo e alerta baseado em risco
+
+SLOs e operacao
+- Latencia p95 inferior a 100 ms no edge para atuacao critica
+- Confiabilidade mensal superior a 99.9 por cento nos modulos core
+- Recovery time objetivo inferior a 15 minutos no edge

@@ -19,3 +19,14 @@ flowchart LR
     AC --- TEC
 ```
 
+Criterios de selecao e governanca
+- Alinhamento tecnico e de roadmaps
+- Certificacoes de seguranca e conformidade
+- Modelo de suporte e SLOs compatíveis
+- Acordos de partilha de receita e dados
+
+Tiers de parceiros
+- Estrategicos: core cloud e hardware
+- Solucao: modulos verticais e ISVs
+- Entrega: integradores regionais
+- Academia: laboratorios e programas de talento

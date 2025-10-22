@@ -31,3 +31,18 @@ Custos principais
 - Parcerias, certificacoes e conformidade
 - Suporte e sucesso do cliente
 
+Business Model Canvas resumido
+- Proposta: resultados operacionais e ESG com edge AI e governanca
+- Segmentos: manufatura, saude, cidades e utilidades
+- Canais: equipa direta, integradores e marketplace
+- Relacoes: sucesso do cliente e SLAs
+- Atividades: engenharia, dados, MLOps, entrega
+- Recursos: dados, equipa, parceiros, IP
+- Parcerias: cloud, hardware, integradores, academia
+- Custos: cloud, I&D, suporte, certificacoes
+- Receita: subscricao, modulos, consumo e suporte
+
+Comercial e unit economics
+- Entrada land and expand com piloto pago e marco de valor
+- CAC alvo inferior a 9 meses de payback
+- Margem bruta alvo superior a 70 por cento em software

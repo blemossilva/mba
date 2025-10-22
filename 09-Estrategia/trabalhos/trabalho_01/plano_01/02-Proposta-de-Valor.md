@@ -12,6 +12,17 @@ Segmentos alvo e valor
 - Cidades inteligentes: energia otimizada e seguranca proactiva
 - Utilidades e energia: monitorizacao de redes e perdas tecnicas reduzidas
 
+Jobs to be done e resultados
+- Gestores de operacao: reduzir paragens e defeitos com previsao e atuacao
+- Equipas de manutencao: planear janelas com risco e disponibilidade otimizados
+- Clinicos e enfermagem: prevenir quedas e acelerar fluxo sem aumentar carga
+- Gestores municipais: reduzir consumo e melhorar resposta a incidentes
+
+Provas de valor em 12 semanas
+- Definir baseline, sensores prioritarios e contratos de dados
+- Implementar 1 a 2 modelos no edge com playbooks
+- Medir impacto em KPIs acordados e preparar expansao
+
 ```mermaid
 flowchart TD
     C[Clientes] --> S[Segmentos alvo]
@@ -26,4 +37,3 @@ flowchart TD
     U --> P
     V --> R[Receita recorrente e satisfacao]
 ```
-

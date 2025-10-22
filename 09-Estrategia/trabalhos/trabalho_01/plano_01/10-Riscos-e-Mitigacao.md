@@ -12,3 +12,13 @@ Mitigacao
 - Academia interna e parcerias universitarias
 - Zero trust, segmentacao e caos engineering
 
+Matriz de risco resumida
+- Probabilidade alta e impacto alto: ciberataque critico e fuga de dados
+- Probabilidade media e impacto alto: regulação e interrupcao de fornecedor
+- Probabilidade alta e impacto medio: deriva de modelos e qualidade de dados
+- Probabilidade baixa e impacto alto: falhas fisicas em edge sem redundancia
+
+Planos de contingencia
+- Runbooks de isolamento e recuperacao com testes trimestrais
+- Backups imutaveis e enclaves para dados sensiveis
+- Alternativas de fornecedor prequalificadas e contratos de saida

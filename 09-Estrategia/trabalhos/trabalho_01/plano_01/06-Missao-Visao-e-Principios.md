@@ -13,3 +13,13 @@ Principios
 - Sustentabilidade medida e melhorada continuamente
 - Etica e transparencia em IA e dados
 
+OKRs anuais de topo exemplo
+- O1: Lançar FirstSense OS em 3 verticais
+  - KR: 12 clientes produtivos com 3 modulos cada
+  - KR: NPS acima de 50
+  - KR: Margem bruta acima de 65 por cento
+- O2: Excelencia operacional e conformidade
+  - KR: 100 por cento de fluxos criticos com contratos de dados
+  - KR: Zero incidentes severos com tempo fora de SLO
+- O3: Sustentabilidade integrada
+  - KR: Reducao de CO2e por unidade de valor em 15 por cento ano sobre ano

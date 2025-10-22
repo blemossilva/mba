@@ -22,3 +22,12 @@ Moat dinamico
 - Gemelos digitais e simulacao aceleram inovacao
 - Comunidade de developers aumenta superficie de solucao
 
+VRIO em alto nivel
+- Valor: reduz custos e aumenta qualidade e seguranca
+- Raridade: contratos de dados mais gemelos por dominio especifico
+- Imitabilidade: dificil com dados proprietarios e playbooks de entrega
+- Organizacao: estrutura de produto, dados e sucesso do cliente
+
+Custos de mudanca e lock in saudavel
+- Integra de sensores e atuadores com playbooks repetiveis
+- Dashboards e APIs que preservam dados do cliente com exportacao
