@@ -1,32 +1,57 @@
 # Proposta de Valor 2030
 
-Criamos obras mais rapidas, seguras e sustentaveis com ObraSense OS
-- Orquestra frotas roboticas e maquinas inteligentes
-- Verifica qualidade com visao computacional ligada a BIM
-- Monitoriza progresso e custos em tempo quase real
-- Otimiza logistica, materiais e carbono
+Proposta de valor central
+Entregar obras com prazo, custo, qualidade e seguranca controlados, combinando robotica, IA, IoT e BIM numa plataforma unica ObraSense OS.
 
-Segmentos alvo e valor
-- Infraestruturas: terraplanagem e pavimentacao com maior produtividade e precisao
-- Edificacao: assentamento e acabamento com menor rework e maior qualidade
-- Renovaveis: parques solares e eolicos com instalacao acelerada e segura
+Segmentos alvo e dores
+- Donos de obra: previsibilidade de prazo e custo, conformidade
+- Empreiteiros gerais: produtividade, rework, controlo de subcontratos
+- Especialidades: seguranca, qualidade, coordenacao de equipas
 
+Jobs to be done e resultados
+- Direcao de obra: cumprir plano e budget com desvios visiveis em horas
+- QA QC: detetar defeitos e nao conformidades a tempo
+- Seguranca: reduzir exposicao e tempo em tarefas de risco
+- Logistica: garantir materiais e equipamentos no ponto certo
+
+Beneficios e metricas alvo
+- Prazo: SPI superior a 1.05 por fase
+- Custo: CPI superior a 1.05 e variacao reduzida
+- Qualidade: rework e defeitos por secao reduzidos em 30 por cento
+- Seguranca: LTIFR e TRIR reduzidos em 40 por cento ate 2027
+- Sustentabilidade: emissoes e residuos por unidade reduzidos em 25 por cento
+
+Diferenciacao
+- Orquestracao de frotas roboticas com BIM e gemeo digital
+- Contratos de dados e auditoria integrados
+- Edge first para obra com conectividade mesh 6G
+- Biblioteca de playbooks por tarefa
+
+Oferta modular
+- Fase terreno: terraplanagem, compactacao, pavimentacao
+- Fase estrutura: armacao, cofragem, betonagem
+- Fase acabamentos: assentamento, pintura, inspecao com visao
+- Transversal: logistica, seguranca, progresso e carbono
+
+Modelo de precos e garantias
+- Subscricao por obra e portfolio com tiers
+- Consumo por hora robotica e eventos
+- Modulos por resultado com metas de CPI SPI ou qualidade
+- Garantias de performance com marcos de valor e creditos de servico
+
+Prova de valor 12 semanas
+- Semana 1 a 2: baseline, BIM, sensores e contratos de dados
+- Semana 3 a 6: implementacao de 1 a 2 modulos prioritarios
+- Semana 7 a 10: calibracao e treino operacional
+- Semana 11 a 12: medicao de impacto e plano de expansao
+
+Resumo visual
 ```mermaid
 flowchart TD
-    C[Clientes donos de obra] --> V[Valor em prazo custo qualidade e seguranca]
-    E[Empreiteiros e consorcios] --> V
-    P[ObraSense OS] --> M[Modulos por tarefa]
+    S[Segmentos e dores] --> J[Jobs to be done]
+    J --> M[Modulos ObraSense]
     M --> R[Resultados medidos]
-    R --> V
+    R --> V[Valor para cliente]
+    V --> P[Preco e garantias]
 ```
-
-Jobs to be done
-- Direcao de obra: cumprir prazo e budget com previsibilidade
-- QA: reduzir defeitos e inspeccionar sem atrasos
-- Seguranca: diminuir exposicao a risco e incidentes
-
-Provas de valor em 12 semanas
-- Baseline de produtividade e qualidade com BIM
-- Implementacao de 1 a 2 modulos em tarefas de alto impacto
-- Medicao de CPI e SPI e plano de expansao
 
