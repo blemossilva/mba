@@ -1,8 +1,8 @@
 # 📘 MBA Executivo – 10ª Edição (ISAG)
 
 **Disciplina:** Estratégia - MBA11
-**Docente Responsável:** Nuno Reis
-**Tópico:** Orçamento
+**Docente Responsável:** Victor Tavares
+**Tópico:** Introdução à Estratégia
 
 ---
 
