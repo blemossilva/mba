@@ -2,7 +2,7 @@
 
 **Disciplina:** Estratégia - MBA11
 **Docente Responsável:** Victor Tavares
-**Tópico:** Introdução à Estratégia
+**Tópico:** Estratégia
 
 ---
 
@@ -12,7 +12,7 @@ O objetivo é **consolidar o conhecimento** e **aplicar os conceitos na prática
 
 ---
 
-# Guia de Estudo — Orçamento  
+# Guia de Estudo — Estratégia  
 *(Disciplina: Instrumentos de Apoio à Gestão – MBA Executivo ISAG)*  
 
 ---
